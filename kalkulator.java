@@ -2,8 +2,8 @@
  * Kelas Kalkulator menyediakan operasi dasar matematika seperti penjumlahan,
  * pengurangan, perkalian, dan pembagian.
  * 
- * @author Nama Anda
- * @since 1.0
+ * @author Rifki Fauzan Suandi
+ * @since 2024
  */
 public class kalkulator {
 
